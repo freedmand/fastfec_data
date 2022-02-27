@@ -1,0 +1,55 @@
+form_type,filer_committee_id_number,entity_type,contributor_name,contributor_street_1,contributor_street_2,contributor_city,contributor_state,contributor_zip_code,election_code,election_other_description,contributor_employer,contributor_occupation,contribution_aggregate,contribution_date,contribution_amount,contribution_purpose_code,contribution_purpose_descrip,donor_committee_fec_id,donor_candidate_fec_id,donor_candidate_name,donor_candidate_office,donor_candidate_state,donor_candidate_district,conduit_name,conduit_street1,conduit_street2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,amended_cd,transaction_id,back_reference_tran_id_number,back_reference_sched_name,reference_code
+SA11A1,C00040535,IND,BECHTOLD TIMOTHY V ,4515 Twin Oak Drive,,Robbinsdale,MN,55422,,,American Express Financial Advisors,VpInsurance Products,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29364
+SA11A1,C00040535,IND,BISWAS BACHU S ,The Ice House Warner Lane,,Tarrytown,NY,10591,,,American Express Bank,Sr DirTrading,312.00,2001-04-05,312.00,,,,,,,,0,,,,,,,,,,A29341
+SA11A1,C00040535,IND,BREWERS DOUGLAS W ,1130 Cove Circle,,Minnetrista,MN,55364,,,American Express Financial Advisors,VpSales Support,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29367
+SA11A1,C00040535,IND,BREYER KARL J ,2635 Newton Avenue So,,Minneapolis,MN,55405,,,American Express Financial Advisors,Corporate Svp,320.00,2001-04-15,40.00,,,,,,,,0,,,,,,,,,,A30863
+SA11A1,C00040535,IND,BREYER KARL J ,2635 Newton Avenue So,,Minneapolis,MN,55405,,,American Express Financial Advisors,Corporate Svp,360.00,2001-04-29,40.00,,,,,,,,0,,,,,,,,,,A31354
+SA11A1,C00040535,IND,COLEMAN ELISABETH ,200 Vesey Street,,New York,NY,10285,,,American Express Company,VPCommunications,250.00,2001-04-23,250.00,,,,,,,,0,,,,,,,,,,A30481
+SA11A1,C00040535,IND,COWAN SALLY A ,3 Sycamore Hill Rd,,Bernardsville,NJ,07924,,,American Express Company,VPPrivacy & Data Protection,250.00,2001-04-25,250.00,,,,,,,,0,,,,,,,,,,A30818
+SA11A1,C00040535,IND,DRISCOLL FREDERICK ,200 AXP Financial Ctr.,,Minneapolis,MN,55474,,,American Express Financial Advisors,Executive,400.00,2001-04-30,100.00,,,,,,,,0,,,,,,,,,,A30841
+SA11A1,C00040535,IND,FAIRBAIRN URSULA F ,35 N Moore Street,,New York,NY,10013,,,American Express Company,EVPHuman Resources & Quality,1076.95,2001-04-08,153.85,,,,,,,,0,,,,,,,,,,A29377
+SA11A1,C00040535,IND,FAIRBAIRN URSULA F ,35 N Moore Street,,New York,NY,10013,,,American Express Company,EVPHuman Resources & Quality,1230.80,2001-04-22,153.85,,,,,,,,0,,,,,,,,,,A30492
+SA11A1,C00040535,IND,HAMWAY GEOFFREY H ,7112 E Bronco Drive,,Paradise Valley,AZ,85253,,,American Express Company,SVPGeneralAuditTechnology,500.00,2001-04-05,500.00,,,,,,,,0,,,,,,,,,,A29351
+SA11A1,C00040535,IND,HATCH KERRY D ,13 Johnson Place,,Rye,NY,10580,,,American Express TRS Co.,EVPGMSBS,134.61,2001-04-08,19.23,,,,,,,,0,,,,,,,,,,A29394
+SA11A1,C00040535,IND,HATCH KERRY D ,13 Johnson Place,,Rye,NY,10580,,,American Express TRS Co.,EVPGMSBS,1634.61,2001-04-09,1500.00,,,,,,,,0,,,,,,,,,,A29701
+SA11A1,C00040535,IND,HATCH KERRY D ,13 Johnson Place,,Rye,NY,10580,,,American Express TRS Co.,EVPGMSBS,1653.84,2001-04-22,19.23,,,,,,,,0,,,,,,,,,,A30509
+SA11A1,C00040535,IND,HAYES JOHN D ,49 Carteret Road,,Allendale,NJ,07401,,,American Express Company,EVPGlobal Advertising,5000.00,2001-04-04,5000.00,,,,,,,,0,,,,,,,,,,A29309
+SA11A1,C00040535,IND,HEATH BRIAN M ,5104 Rushing Creek CT,,Plano,TX,75093,,,American Express Financial Advisors,SvpAdvisor Group,192.00,2001-04-15,24.00,,,,,,,,0,,,,,,,,,,A30987
+SA11A1,C00040535,IND,HEATH BRIAN M ,5104 Rushing Creek CT,,Plano,TX,75093,,,American Express Financial Advisors,SvpAdvisor Group,216.00,2001-04-29,24.00,,,,,,,,0,,,,,,,,,,A31478
+SA11A1,C00040535,IND,HEINE TIMOTHY J ,211 South Euclid Ave,,Westfield,NJ,07090,,,American Express TRS Co.,Managing Counsel,625.00,2001-04-05,625.00,,,,,,,,0,,,,,,,,,,A29328
+SA11A1,C00040535,IND,HIGGINSON CORNELIA W ,410 East 57th Street Apt 3D,,New York,NY,10022,,,American Express Company,VPPhilanthropic Program,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29361
+SA11A1,C00040535,IND,HOUSE DAVID C ,24 Gramercy Park South 4S,,New York,NY,10003,,,American Express TRS Co.,Group President,525.00,2001-04-08,75.00,,,,,,,,0,,,,,,,,,,A29397
+SA11A1,C00040535,IND,HOUSE DAVID C ,24 Gramercy Park South 4S,,New York,NY,10003,,,American Express TRS Co.,Group President,600.00,2001-04-22,75.00,,,,,,,,0,,,,,,,,,,A30512
+SA11A1,C00040535,IND,KASSING DAVID J ,11710 Foley Blvd,,Coon Rapids,MN,55433,,,American Express Financial Advisors,Sr Business Analyst  Non Supv,200.00,2001-04-15,25.00,,,,,,,,0,,,,,,,,,,A30874
+SA11A1,C00040535,IND,KASSING DAVID J ,11710 Foley Blvd,,Coon Rapids,MN,55433,,,American Express Financial Advisors,Sr Business Analyst  Non Supv,225.00,2001-04-29,25.00,,,,,,,,0,,,,,,,,,,A31365
+SA11A1,C00040535,IND,KINDER SUSAN D ,2221 Oliver Ave S apt1,,Minneapolis,MN,55405,,,American Express TRS Co.,SVPGMWW Travelers Cheques,336.56,2001-04-08,48.08,,,,,,,,0,,,,,,,,,,A29398
+SA11A1,C00040535,IND,KINDER SUSAN D ,2221 Oliver Ave S apt1,,Minneapolis,MN,55405,,,American Express TRS Co.,SVPGMWW Travelers Cheques,384.64,2001-04-22,48.08,,,,,,,,0,,,,,,,,,,A30513
+SA11A1,C00040535,IND,KOLMODIN CLAIRE ,16290 N Hillcrest CT,,Eden Prairie,MN,55346,,,American Express Financial Advisors,VpFinancial Services Strategy,317.34,2001-04-09,250.00,,,,,,,,0,,,,,,,,,,A29704
+SA11A1,C00040535,IND,KOLMODIN CLAIRE ,16290 N Hillcrest CT,,Eden Prairie,MN,55346,,,American Express Financial Advisors,VpFinancial Services Strategy,326.96,2001-04-15,9.62,,,,,,,,0,,,,,,,,,,A30911
+SA11A1,C00040535,IND,KOLMODIN CLAIRE ,16290 N Hillcrest CT,,Eden Prairie,MN,55346,,,American Express Financial Advisors,VpFinancial Services Strategy,336.58,2001-04-29,9.62,,,,,,,,0,,,,,,,,,,A31402
+SA11A1,C00040535,IND,KORCHAK SUSAN D ,25 West 9th Street #1,,New York,NY,10011,,,American Express TRS Co.,VPPublic Affairs,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29333
+SA11A1,C00040535,IND,KUMAGAI STEVEN C ,6327 Timber Trail,,Edina,MN,55439,,,American Express Financial Advisors,SvpDirect Group,785.00,2001-04-15,20.00,,,,,,,,0,,,,,,,,,,A30939
+SA11A1,C00040535,IND,KUMAGAI STEVEN C ,6327 Timber Trail,,Edina,MN,55439,,,American Express Financial Advisors,SvpDirect Group,805.00,2001-04-29,20.00,,,,,,,,0,,,,,,,,,,A31430
+SA11A1,C00040535,IND,LENNICK DOUGLAS A ,6309 Timber Trail,,Edina,MN,55435,,,American Express Financial Advisors,EvpPrivate Client Group,320.00,2001-04-15,40.00,,,,,,,,0,,,,,,,,,,A30941
+SA11A1,C00040535,IND,LENNICK DOUGLAS A ,6309 Timber Trail,,Edina,MN,55435,,,American Express Financial Advisors,EvpPrivate Client Group,360.00,2001-04-29,40.00,,,,,,,,0,,,,,,,,,,A31432
+SA11A1,C00040535,IND,LINEN JONATHAN S ,17 Lenox Road,,Summit,NJ,07901,,,American Express Company,Vice ChairmanAXP,5000.00,2001-04-09,5000.00,,,,,,,,0,,,,,,,,,,A29699
+SA11A1,C00040535,IND,MORET PAMELA J ,1484 Lametti Lane,,Arden Hills,MN,55112,,,American Express Financial Advisors,Svp  Products,410.00,2001-04-15,20.00,,,,,,,,0,,,,,,,,,,A30929
+SA11A1,C00040535,IND,MORET PAMELA J ,1484 Lametti Lane,,Arden Hills,MN,55112,,,American Express Financial Advisors,Svp  Products,430.00,2001-04-29,20.00,,,,,,,,0,,,,,,,,,,A31420
+SA11A1,C00040535,IND,MURPHY BARRY ,1901 Humboldt Ave S,,Minneapolis,MN,55403,,,American Express Financial Advisors,EvpUs Retail,320.00,2001-04-15,40.00,,,,,,,,0,,,,,,,,,,A30932
+SA11A1,C00040535,IND,MURPHY BARRY ,1901 Humboldt Ave S,,Minneapolis,MN,55403,,,American Express Financial Advisors,EvpUs Retail,360.00,2001-04-29,40.00,,,,,,,,0,,,,,,,,,,A31423
+SA11A1,C00040535,IND,OWENS JR JOSEPH B ,139 Swan Avenue,,Plantation,FL,33324,,,American Express TRS Co.,VPLFO Finance,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29344
+SA11A1,C00040535,IND,PARENT LOUISE M ,1170 Fifth Avenue,,New York,NY,10029,,,American Express Company,EVPGen Counsel,4000.00,2001-04-13,4000.00,,,,,,,,0,,,,,,,,,,A29861
+SA11A1,C00040535,IND,PITT SEANA M ,30 Habitat Lane,,Cordlandt Manor,NY,10566,,,American Express TRS Co.,VPProduct Development,300.00,2001-04-05,300.00,,,,,,,,0,,,,,,,,,,A29349
+SA11A1,C00040535,IND,SALERNO MARY BETH ,136 Norma Rd,,Harrington Park,NJ,07640,,,American Express Company,VPPhilanthropy,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29359
+SA11A1,C00040535,IND,SALOW GLEN ,4 Hastings Road,,Holmdel,NJ,07733,,,American Express Company,EVPCIO,1346.10,2001-04-08,192.30,,,,,,,,0,,,,,,,,,,A29378
+SA11A1,C00040535,IND,SALOW GLEN ,4 Hastings Road,,Holmdel,NJ,07733,,,American Express Company,EVPCIO,1538.40,2001-04-22,192.30,,,,,,,,0,,,,,,,,,,A30493
+SA11A1,C00040535,IND,SCHEIRMAN KATHLEEN M ,8300 E Dixileta Drive,,Scottsdale,AZ,85262,,,American Express TRS Co.,Tech Ldr  Technologies,250.00,2001-04-13,250.00,,,,,,,,0,,,,,,,,,,A29858
+SA11A1,C00040535,IND,SCHICK THOMAS ,1110 East 22ND Street,,Brooklyn,NY,11210,,,American Express Company,EVPCorp Affairs&Communication,4000.00,2001-04-09,4000.00,,,,,,,,0,,,,,,,,,,A29700
+SA11A1,C00040535,IND,SMITH-GREEN NANCY ,2 SUTTON PLACE SOUTH,,NEW YORK,NY,10022,,,AMERICAN EXPRESS TRS CO.,VP-GLOBAL MEDIA & SPONSORSHIP,307.72,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29336
+SA11A1,C00040535,IND,SMITH-GREEN NANCY ,2 SUTTON PLACE SOUTH,,NEW YORK,NY,10022,,,AMERICAN EXPRESS TRS CO.,VP-GLOBAL MEDIA & SPONSORSHIP,317.34,2001-04-08,9.62,,,,,,,,0,,,,,,,,,,A29382
+SA11A1,C00040535,IND,SMITH-GREEN NANCY ,2 SUTTON PLACE SOUTH,,NEW YORK,NY,10022,,,AMERICAN EXPRESS TRS CO.,VP-GLOBAL MEDIA & SPONSORSHIP,326.96,2001-04-22,9.62,,,,,,,,0,,,,,,,,,,A30497
+SA11A1,C00040535,IND,SPERL BRIDGET ,110 Birchwood Avenue,,Birchwood,MN,55110,,,American Express Financial Advisors,SvpClient Service Org,576.96,2001-04-15,9.62,,,,,,,,0,,,,,,,,,,A30880
+SA11A1,C00040535,IND,SPERL BRIDGET ,110 Birchwood Avenue,,Birchwood,MN,55110,,,American Express Financial Advisors,SvpClient Service Org,586.58,2001-04-29,9.62,,,,,,,,0,,,,,,,,,,A31371
+SA11A1,C00040535,IND,STEVENS MITCHELL J ,300 E 85th St 2403,,New York,NY,10028,,,American Express TRS Co.,VPInformation Services,312.00,2001-04-06,312.00,,,,,,,,0,,,,,,,,,,A29370
+SA11A1,C00040535,IND,STREIT MICHAEL R ,1025 Linden Ave,,Oak Park,IL,60302,,,American Express TRS Co.,VPReal Est Plng & Implement'n,250.00,2001-04-05,250.00,,,,,,,,0,,,,,,,,,,A29355
+SA11A1,C00040535,IND,WITTMER MARC ,415 East 37Th Street 40A,,New York,NY,10016,,,American Express Bank,VPFinance,250.00,2001-04-09,250.00,,,,,,,,0,,,,,,,,,,A29702

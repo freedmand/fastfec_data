@@ -1,0 +1,227 @@
+form_type,filer_committee_id_number,transaction_id_number,back_reference_tran_id_number,back_reference_sched_name,entity_type,payee_organization_name,payee_last_name,payee_first_name,payee_middle_name,payee_prefix,payee_suffix,payee_street_1,payee_street_2,payee_city,payee_state,payee_zip_code,election_code,election_other_description,expenditure_date,expenditure_amount,semi_annual_refunded_bundled_amt,expenditure_purpose_descrip,category_code,beneficiary_committee_fec_id,beneficiary_committee_name,beneficiary_candidate_fec_id,beneficiary_candidate_last_name,beneficiary_candidate_first_name,beneficiary_candidate_middle_name,beneficiary_candidate_prefix,beneficiary_candidate_suffix,beneficiary_candidate_office,beneficiary_candidate_state,beneficiary_candidate_district,conduit_name,conduit_street_1,conduit_street_2,conduit_city,conduit_state,conduit_zip_code,memo_code,memo_text_description,reference_to_si_or_sl_system_code_that_identifies_the_account
+SB17,C00612432,B-921014,,,ORG,"America Direct, Inc.",,,,,,1272 Corporate Park Drive,2nd Floor,Forest,VA,24551,P2022,,2021-03-31,19685.83,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921155,B-792190,,ORG,American Airlines,,,,,,4333 Amon Center Blvd.,,Fort Worth,TX,76155,P2022,,2021-02-17,165.70,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921170,B-792190,,ORG,American Airlines,,,,,,4333 Amon Center Blvd.,,Fort Worth,TX,76155,P2022,,2021-02-21,542.70,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921173,B-792190,,ORG,American Airlines,,,,,,4333 Amon Center Blvd.,,Fort Worth,TX,76155,P2022,,2021-02-24,564.40,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921179,B-792190,,ORG,American Airlines,,,,,,4333 Amon Center Blvd.,,Fort Worth,TX,76155,P2022,,2021-02-28,335.70,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-752886,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-05,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-759712,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-06,98.44,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-759704,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-12,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-759713,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-12,61.22,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766818,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,G2020,,2021-01-14,19.10,null,E-Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766737,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-19,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766819,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,G2020,,2021-01-19,21.50,null,E-Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766820,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-22,8.90,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766798,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-26,0.54,null,E-Merchant Fee,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766821,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-01-28,36.52,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766830,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-01,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792137,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-01,15.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792138,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-01,35.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792139,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-05,4.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766918,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-09,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792140,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-10,77.18,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766917,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-16,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792141,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-16,173.70,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792142,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-17,104.77,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792143,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-19,130.41,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792144,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-23,245.48,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792145,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-02-25,11.20,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792133,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-01,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792147,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-03,50.38,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792148,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-03,100.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792146,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-05,15.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792149,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-05,103.23,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792185,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-09,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792335,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-09,80.80,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792337,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-10,13.10,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792317,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-15,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792340,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-15,235.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792341,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-17,172.30,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792342,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-19,50.20,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792318,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-23,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792343,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-23,206.26,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792344,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-25,142.16,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792319,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-29,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792345,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-29,48.20,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792346,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-30,98.83,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792347,,,ORG,"Anedot, Inc.",,,,,,1340 Poydras Street,Suite 1770,New Orleans,LA,70112,P2022,,2021-03-31,79.90,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-752883,,,ORG,Campaign Financial Services,,,,,,4905 Del Ray Avenue,,Bethesda,MD,20814,P2022,,2021-01-11,4300.00,null,Compliance Consulting,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766914,,,ORG,Campaign Financial Services,,,,,,4905 Del Ray Avenue,,Bethesda,MD,20814,P2022,,2021-02-09,4300.00,null,Compliance Consulting,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921098,B-732315,,ORG,Capitol Hill Club,,,,,,"300 First Street, S.E.",,Washington,DC,20003,P2022,,2020-12-15,397.52,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766792,B-766791,,ORG,Capitol Hill Club,,,,,,"300 First Street, S.E.",,Washington,DC,20003,P2022,,2021-01-15,33.47,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921142,B-792191,,ORG,Capitol Hill Club,,,,,,"300 First Street, S.E.",,Washington,DC,20003,P2022,,2021-02-16,606.00,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921146,B-792191,,ORG,Capitol Hill Club,,,,,,"300 First Street, S.E.",,Washington,DC,20003,P2022,,2021-03-15,123.22,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921015,,,ORG,"Capitol Hill Lists, LLC",,,,,,1668 Rambling Rill Drive,,Statham,GA,30666,P2022,,2021-03-31,10547.43,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792156,,,ORG,Communications Corporation Of America,,,,,,13129 Airpark Dr.,Suite 120,Elkwood,VA,22718,P2022,,2021-02-11,50680.38,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921019,,,ORG,Communications Corporation Of America,,,,,,13129 Airpark Dr.,Suite 120,Elkwood,VA,22718,P2022,,2021-03-31,21988.42,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766800,,,ORG,Constant Contact,,,,,,1601 Trapelo Road,,Waltham,MA,02451,P2022,,2021-01-15,555.00,null,Software Service,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766916,,,ORG,Constant Contact,,,,,,1601 Trapelo Road,,Waltham,MA,02451,P2022,,2021-02-11,635.00,null,Software Service,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792313,,,ORG,Constant Contact,,,,,,1601 Trapelo Road,,Waltham,MA,02451,P2022,,2021-03-15,675.00,null,Software Service,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921096,B-732314,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2020-12-15,308.60,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921136,B-766773,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2020-12-20,244.60,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921138,B-766773,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2020-12-29,348.60,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766783,B-766773,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2021-01-23,212.20,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766784,B-766773,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2021-01-23,167.00,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766785,B-766773,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2021-01-24,300.00,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921167,B-766923,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2021-01-29,379.20,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921199,B-766923,,ORG,Delta Air Lines,,,,,,1030 Delta Blvd.,,Atlanta,GA,30354,P2022,,2021-02-08,303.20,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921125,B-766921,,ORG,Destin Chamber of Commerce,,,,,,"4484 Legendary Drive, #A",,Destin,FL,32541,P2022,,2021-02-09,335.00,null,Membership Dues,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921021,,,ORG,"Direct Mail Processors, Inc.",,,,,,1150 Conrad Court,,Hagerstown,MD,21740,P2022,,2021-03-31,16503.88,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792198,,,ORG,Drake Ventures LLC,,,,,,1007 North Federal Highway,,Fort Lauderdale,FL,33308,P2022,,2021-03-24,5000.00,null,Strategic Campaign Consulting,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-732317,,,ORG,Election Connections,,,,,,P. O. Box 10866,,Tallahassee,FL,32302,P2022,,2021-01-06,4833.13,null,Printing,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766831,,,ORG,Election Connections,,,,,,P. O. Box 10866,,Tallahassee,FL,32302,P2022,,2021-02-04,21120.09,null,Text Messaging Services,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766843,,,ORG,Election Connections,,,,,,P. O. Box 10866,,Tallahassee,FL,32302,P2022,,2021-02-04,12000.00,null,Polling,005,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766912,,,ORG,Election Connections,,,,,,P. O. Box 10866,,Tallahassee,FL,32302,P2022,,2021-02-18,-21120.09,null,VOID - Lost Check - Text Messaging Services from 2/4/21 - See Reissue on 2/18/21,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766913,,,ORG,Election Connections,,,,,,P. O. Box 10866,,Tallahassee,FL,32302,P2022,,2021-02-18,21102.09,null,Text Messaging Services - Reissue from 2/4/21,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921112,B-766922,,ORG,Enterprise Rent-A-Car,,,,,,2430 Airport Boulevard,,Pensacola,FL,32504,P2022,,2021-01-29,463.02,null,Rental Car Expense,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-732313,,,ORG,Extensive Enterprises Media,,,,,,204 37th Ave N,Ste 182,St. Petersburg,FL,33704,P2022,,2021-01-04,1000.00,null,Advertising,004,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766833,,,ORG,Extensive Enterprises Media,,,,,,204 37th Ave N,Ste 182,St. Petersburg,FL,33704,P2022,,2021-02-03,1000.00,null,Advertising,004,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792187,,,ORG,Extensive Enterprises Media,,,,,,204 37th Ave N,Ste 182,St. Petersburg,FL,33704,P2022,,2021-03-16,1000.00,null,Advertising,004,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-732314,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-01-06,770.70,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-732315,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-01-06,397.52,null,SEE MEMO ITEM,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-732316,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-01-06,397.75,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766756,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-01-26,869.71,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766773,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-01-26,4462.87,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766791,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-01-26,33.47,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766921,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-02-22,1431.00,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766922,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-02-22,2397.60,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766923,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-02-22,5965.12,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792189,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-03-18,200.00,null,SEE MEMO ITEM,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792190,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-03-18,10272.48,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792191,,,ORG,First Bankcard,,,,,,P.O. Box 2818,,Omaha,NE,681032818,P2022,,2021-03-18,880.99,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921165,B-766923,,ORG,Gaylord National Resort & Convention Center,,,,,,201 Waterfront Street,,National Harbor,MD,20745,P2022,,2021-01-28,580.84,null,Lodging Fees,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766842,,,ORG,Gold Standard,,,,,,16192 Coastal Highway,,Lewes,DE,19958,P2022,,2021-02-04,9000.00,null,Fundraising Consulting,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921182,B-792190,,ORG,Grand Bohemian Hotel Orlando,,,,,,325 South Orange Avenue,,Orlando,FL,32801,P2022,,2021-03-01,3218.40,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-752881,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-01-05,51.00,null,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766823,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-01-29,80.00,null,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766824,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-01-29,461.75,null,SEE MEMO ITEM,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766883,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-02-02,51.00,null,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792157,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-02-26,80.00,null,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792158,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-02-26,461.75,null,SEE MEMO ITEM,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792160,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-03-02,59.00,null,Payroll Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792314,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-03-31,93.00,null,Payroll Taxes,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792315,,,ORG,Gusto,,,,,,525 20th Street,,San Francisco,CA,94107,P2022,,2021-03-31,461.75,null,SEE MEMO ITEM,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921115,B-766922,,ORG,Hilton Garden Inn,,,,,,1144 Airport Boulevard,,Pensacola,FL,32504,P2022,,2021-01-29,293.70,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766758,B-766756,,ORG,Hotels.com,,,,,,5400 Lyndon B Johnson Freeway,Suite 500,Dallas,TX,75240,P2022,,2021-01-26,319.78,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-752882,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,P2022,,2021-01-05,550.00,null,Software Service,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766884,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,P2022,,2021-02-02,550.00,null,Software Service,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792161,,,ORG,Integrated Solutions: Political,,,,,,4142 Adams Avenue,Suite 103-550,San Diego,CA,92116,P2022,,2021-03-02,550.00,null,Software Service,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921095,B-732314,,ORG,JetBlue,,,,,,1 Aviation Circle,,Washington,DC,20001,P2022,,2020-12-14,409.10,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766774,B-766773,,ORG,JetBlue,,,,,,1 Aviation Circle,,Washington,DC,20001,P2022,,2020-12-17,20.00,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766822,,,ORG,Kessler Creative,,,,,,12276 San Jose Boulevard,Suite 115,Jacksonville,FL,32223,P2022,,2021-01-12,34327.80,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-920999,,,ORG,Kessler Creative,,,,,,12276 San Jose Boulevard,Suite 115,Jacksonville,FL,32223,P2022,,2021-03-11,27325.42,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921202,B-766923,,ORG,LA Brochette,,,,,,340 Lexington Avenue,,New York,NY,10016,P2022,,2021-02-09,1974.33,null,Catering,003,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766775,B-766773,,ORG,Mar-a-lago Club,,,,,,1100 South Ocean Boulevard,,Palm Beach,FL,33480,P2022,,2020-12-18,644.14,null,Meal Expense,003,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766776,B-766773,,ORG,Mar-a-lago Club,,,,,,1100 South Ocean Boulevard,,Palm Beach,FL,33480,P2022,,2020-12-19,186.01,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921203,B-766923,,ORG,Marriott,,,,,,6955 Lake Nona Boulevard,,Orlando,FL,32827,P2022,,2021-02-12,211.26,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921205,B-766923,,ORG,Marriott,,,,,,6955 Lake Nona Boulevard,,Orlando,FL,32827,P2022,,2021-02-13,123.99,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921189,B-792190,,ORG,Marriott,,,,,,6955 Lake Nona Boulevard,,Orlando,FL,32827,P2022,,2021-03-04,1168.89,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766705,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-01-08,77.75,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792150,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-02-03,66.98,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792151,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-02-05,25.00,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792152,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-02-11,25.00,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792153,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-02-25,25.00,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792154,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-03-02,220.22,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792336,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-03-10,25.00,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792339,,,ORG,Middletown Valley Bank,,,,,,PO Box 75,,Middletown,MD,21769,P2022,,2021-03-15,25.00,null,Banking Service Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766982,,,PAC,National Association of Broadcasters PAC (NABPAC),,,,,,1771 N Street Northwest,,Washington,DC,20036,P2020,,2021-02-03,75.00,140.00,Conduit Processing Fees,001,,,,,,,,,,,00,,,,,,,,
+SB17,C00612432,B-921097,B-732314,,ORG,National Car Rental,,,,,,2125 Belvedere Road,,West Palm Beach,FL,33406,P2022,,2020-12-15,53.00,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766778,B-766773,,ORG,National Car Rental,,,,,,2125 Belvedere Road,,West Palm Beach,FL,33406,P2022,,2020-12-20,282.02,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766786,B-766773,,ORG,National Car Rental,,,,,,2125 Belvedere Road,,West Palm Beach,FL,33406,P2022,,2021-01-24,870.26,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921168,B-766923,,ORG,National Car Rental,,,,,,2125 Belvedere Road,,West Palm Beach,FL,33406,P2022,,2021-01-31,171.74,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921181,B-792190,,ORG,National Car Rental,,,,,,2125 Belvedere Road,,West Palm Beach,FL,33406,P2022,,2021-03-01,360.93,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921124,B-766921,,ORG,Niceville-valparaiso Chamber Of Commerce,,,,,,1055 John Sims Parkway,,Niceville,FL,32578,P2022,,2021-02-09,595.00,null,Membership Dues,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921214,B-921212,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-01-12,494.76,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-871061,B-766829,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-01-26,9913.68,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-766931,B-766929,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-02-02,4052.52,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-766928,B-766926,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-02-09,4679.46,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-766938,B-766936,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-02-23,1679.60,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-766934,B-766932,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-02-24,817.60,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-792136,B-792134,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-03-02,840.36,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-792325,B-792323,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-03-09,1687.41,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-792328,B-792326,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-03-16,638.12,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-792331,B-792329,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-03-23,620.00,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-792334,B-792332,,ORG,Olympic Media,,,,,,2402 Potomac Ave,Unit 102,Alexandria,VA,22301,P2022,,2021-03-30,2020.80,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-WinRed Technical Services
+SB17,C00612432,B-921216,,,ORG,Red Rock Strategies,,,,,,9500 West Flamingo Road,#203,Las Vegas,NV,89147,P2022,,2021-01-06,7366.40,null,Fundraising Consulting,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766834,,,ORG,Red Rock Strategies,,,,,,9500 West Flamingo Road,#203,Las Vegas,NV,89147,P2022,,2021-02-03,74965.99,null,Fundraising Consulting,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792186,,,ORG,Red Rock Strategies,,,,,,9500 West Flamingo Road,#203,Las Vegas,NV,89147,P2022,,2021-03-16,76933.59,null,Fundraising Consulting,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921016,,,ORG,"Response America, Llc",,,,,,C/O 1668 Rambling Rill Drive,,Statham,GA,30666,P2022,,2021-03-31,20544.68,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792155,,,ORG,Rst Marketing,,,,,,1272 Corporate Park Drive,,Forest,VA,24551,P2022,,2021-02-05,32929.84,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921022,,,ORG,Rst Marketing,,,,,,1272 Corporate Park Drive,,Forest,VA,24551,P2022,,2021-03-31,22199.24,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921164,B-766923,,ORG,Savoya,,,,,,1845 Woodall Rodgers Freeway,,Dallas,TX,75201,P2022,,2021-01-28,250.00,null,Transportation Fees,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921166,B-766923,,ORG,Savoya,,,,,,1845 Woodall Rodgers Freeway,,Dallas,TX,75201,P2022,,2021-01-29,1132.75,null,Transportation Fees,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921183,B-792190,,ORG,Silver Air,,,,,,1100 Lee Wagener Boulevard,201,Fort Lauderdale,FL,33315,P2022,,2021-03-02,8.00,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921184,B-792190,,ORG,Silver Air,,,,,,1100 Lee Wagener Boulevard,201,Fort Lauderdale,FL,33315,P2022,,2021-03-02,353.29,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921190,B-792190,,ORG,Sixt Rent A Car,,,,,,1 Airport Boulevard,,Orlando,FL,32827,P2022,,2021-03-04,611.25,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921195,B-792190,,ORG,Sixt Rent A Car,,,,,,1 Airport Boulevard,,Orlando,FL,32827,P2022,,2021-03-08,769.09,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766788,B-766773,,ORG,SLS Brickell Miami,,,,,,1300 South Miami Avenue,,Miami,FL,33130,P2022,,2021-01-23,371.13,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766789,B-766773,,ORG,SLS Brickell Miami,,,,,,1300 South Miami Avenue,,Miami,FL,33130,P2022,,2021-01-23,516.41,null,Lodging,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921148,B-766923,,ORG,SLS Brickell Miami,,,,,,1300 South Miami Avenue,,Miami,FL,33130,P2022,,2021-01-24,285.93,null,Meal Expense,003,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921149,B-766923,,ORG,SLS Brickell Miami,,,,,,1300 South Miami Avenue,,Miami,FL,33130,P2022,,2021-01-24,49.16,null,Parking,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-792338,,,ORG,Southwest Publishing And Mailing,,,,,,400 Southeast Adams Street,,Topeka,KS,66609,P2022,,2021-03-10,73269.63,null,Postage,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921215,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-01-07,3271.75,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766826,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-01-14,15702.19,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766827,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-01-21,151619.13,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766828,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-01-28,56284.16,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792128,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-02-04,64489.89,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792129,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-02-11,113532.44,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792130,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-02-18,31216.42,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792131,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-02-25,21951.91,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792132,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-03-04,30790.50,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792320,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-03-11,17283.97,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792321,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-03-18,12433.82,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792322,,,ORG,Stripe,,,,,,3180 18th Street,Suite 100,San Francisco,CA,94110,P2022,,2021-03-25,8268.74,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921177,B-792190,,ORG,The Boheme,,,,,,325 South Orange Avenue,,Orlando,FL,32801,P2022,,2021-02-26,468.49,null,Meal Expense,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921156,B-792190,,ORG,Turo Inc.,,,,,,111 Sutter Street,Suite 600,San Francisco,CA,94104,P2022,,2021-02-19,456.10,null,Transportation,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921118,B-766922,,ORG,UBER,,,,,,1455 Market Street,,San Francisco,CA,94103,P2022,,2021-01-30,43.20,null,Transportation Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921083,B-766922,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-25,39.00,null,Airline Fees,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921150,B-766923,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-25,367.82,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766759,B-766756,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-26,278.20,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766760,B-766756,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-26,35.00,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766768,B-766756,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-26,35.00,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921084,B-766922,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-26,631.80,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921117,B-766922,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-01-29,52.00,null,Airline Fees,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921204,B-766923,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-02-12,24.99,null,Airline Fees,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921152,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-02-16,194.82,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921153,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-02-16,24.00,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921154,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-02-16,24.00,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921158,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-02-19,14.99,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921159,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-02-19,8.99,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921186,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-03-03,405.82,null,Airfare,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921187,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-03-03,24.00,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921188,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-03-03,35.00,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921197,B-792190,,ORG,United Airlines,,,,,,1025 Connecticut Avenue Northwest,,Washington,DC,20036,P2022,,2021-03-11,15.99,null,Airline Fee,002,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921090,B-732316,,ORG,United States Postal Service,,,,,,1400 L St NW Lbby 2,,Washington,DC,20005,P2022,,2020-12-09,382.80,null,Postage,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-766735,,,ORG,US Postmaster,,,,,,44 West Franklin Street,,Hagerstown,MD,21740,P2022,,2021-01-20,985.00,null,Postage,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-920997,,,ORG,US Postmaster,,,,,,44 West Franklin Street,,Hagerstown,MD,21740,P2022,,2021-03-10,3000.00,null,Postage,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766885,,,ORG,"Venable, LLP",,,,,,PO Box 62727,,Baltimore,MD,21264,P2022,,2021-02-08,21224.00,null,Legal Consulting,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921018,,,ORG,Visual Impact Design,,,,,,1668 Rambling Rill Drive,,Statham,GA,30666,P2022,,2021-03-31,2000.00,null,Printing,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766825,B-766824,,IND,,Wallace,Katherine,,,,1600 Governor's Drive,Apt. 1517,Pensacola,FL,32514,P2022,,2021-01-29,461.75,null,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB17,C00612432,B-792159,B-792158,,IND,,Wallace,Katherine,,,,1600 Governor's Drive,Apt. 1517,Pensacola,FL,32514,P2022,,2021-02-26,461.75,null,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB17,C00612432,B-792316,B-792315,,IND,,Wallace,Katherine,,,,1600 Governor's Drive,Apt. 1517,Pensacola,FL,32514,P2022,,2021-03-31,461.75,null,Payroll,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-Gusto
+SB17,C00612432,B-921094,B-766922,,ORG,Walmart,,,,,,9360 Navarre Parkway,,Navarre,FL,32566,P2022,,2021-01-28,166.40,null,General Office Supplies,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921126,B-766921,,ORG,Walton Area Chamber,,,,,,63 S. Centre Trail,,Santa Rosa Beach,FL,32459,P2022,,2021-02-09,295.00,null,Membership Dues,001,,,,,,,,,,,,,,,,,,X,MEMO: Subvendor of-First Bankcard
+SB17,C00612432,B-921023,,,ORG,"Win Right Data Company, LLC",,,,,,3306 Northwest 10th Street,,Cape Coral,FL,33993,P2022,,2021-03-31,5077.18,null,Direct Mail,003,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921212,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-01-12,494.76,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-921213,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-01-12,292.84,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766829,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-01-26,9913.68,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-871060,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-01-26,755.03,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766929,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-02,4052.52,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766930,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-02,271.86,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766926,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-09,4679.46,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766927,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-09,331.14,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766935,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-23,0.54,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766936,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-23,1679.60,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766937,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-23,184.62,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766932,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-24,817.60,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-766933,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-02-24,96.92,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792134,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-02,840.36,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792135,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-02,62.95,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792323,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-09,1687.41,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792324,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-09,124.83,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792326,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-16,638.12,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792327,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-16,104.02,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792329,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-23,620.00,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792330,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-23,91.16,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792332,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-30,2020.80,null,SEE MEMO ITEMS,001,,,,,,,,,,,,,,,,,,,
+SB17,C00612432,B-792333,,,ORG,WinRed Technical Services,,,,,,1776 Wilson Boulevard,Suite 530,Arlington,VA,22219,P2022,,2021-03-30,177.71,null,E-Merchant Fees,001,,,,,,,,,,,,,,,,,,,
